@@ -1,5 +1,6 @@
 
 ![mahua](http://mahua.jser.me/mahua-logo.jpg)
+
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
@@ -170,8 +171,8 @@
 
 ##联系方式
 
-* 邮件(1029278668@qq.com, 把#换成@)
-* QQ: 1029278668
+* 邮件(12345678@qq.com, 把#换成@)
+* QQ: 12345678
 * 今日头条: [@ionic实战](http://www.toutiao.com/c/user/56196722948/#mid=1559994731399169)
 * 简书: [@alex](http://www.jianshu.com/u/6c16640d68d2)
 * 知乎： [@alex](https://www.zhihu.com/people/alex-79-60-4/activities)
